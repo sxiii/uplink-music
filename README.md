@@ -19,8 +19,8 @@ Good and my favourite choice is Milkytracker, but you can consider also using:
 * GoatTracker
 * FastTracker clone
 * ProTracker clone
-* DefleMask
 * SunVox
+* ~~DefleMask~~
 
 ## Tracklist (trackname, filename & date)
 * Assembly 94 Final / Invitation Demo (A94FINAL.S3M)
